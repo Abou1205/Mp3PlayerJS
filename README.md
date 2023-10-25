@@ -13,5 +13,5 @@ This project is created with HTML, HTML5, CSS, CSS3 and JavaScript. It is an exa
 
 ![](cd.gif)
 
-You can see the project from this link: 
+You can see the project from this link: https://cdplayerjs.netlify.app
 
